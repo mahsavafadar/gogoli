@@ -1,4 +1,6 @@
-p{
-    color: red;
-    background-color: black;
+p {
+  color: green;
+}
+input {
+  border: 5px solid black;
 }
